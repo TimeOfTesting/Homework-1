@@ -11,4 +11,3 @@ dictionary = {
   the_date2: task2,
   the_date3:task3 
 }
-print(dictionary)
